@@ -1,0 +1,3 @@
+# app-ads.txt for Square League (https://huaphongit-cyber.github.io)
+# Replace the line below with the exact line shown in AdMob > Apps > app-ads.txt, then remove the leading "# ".
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
